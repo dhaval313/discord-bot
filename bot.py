@@ -51,4 +51,4 @@ async def love(ctx):
     embed.set_image(url = images[title])
     await ctx.send(embed = embed)
 
-client.run("Nzk4MDM5ODMxOTEyOTA2NzYz.X_vOgg.GlzZM_Dq73lb3zZBSlHl3yQM9Kg")
+client.run("Nzk4MDM5ODMxOTEyOTA2NzYz.X_vOgg.N5oO-vK_PXECRkGCTFvYLzPZL8s")
